@@ -1,10 +1,11 @@
 ---
-title: "This is a test Project"
-author: Jayce P
+title: "CFP Ranking Lab"
 format: gfm
 ---
 
 ## Introduction
+*You’re the committee. Set "importance levels" for your performance metrics and build your own Top 25.*
+
 
 ## Methods
 
